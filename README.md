@@ -1,6 +1,5 @@
 
 # Authentication-Secrets
 
-Level 1 & 2 Username and password and Encryption
-=======
 
+Level 6 OAuth 2.0 & Implementation to Sign in with Google
