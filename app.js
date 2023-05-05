@@ -12,7 +12,7 @@ const findOrCreate = require("mongoose-findorcreate");
 
 const app=express();
 
-console.log(process.env.API_KEY);
+
 
 app.use(bodyParser.urlencoded({extended:true}))
 
